@@ -5,7 +5,7 @@
   "description": "nodejs mongodb backend boilerplate",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "npm start"
   },
   "author": "prkskrs",
   "license": "ISC",
